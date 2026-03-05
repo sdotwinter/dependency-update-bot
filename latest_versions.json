@@ -1,0 +1,6 @@
+{
+  "requests": "2.33.0",
+  "packaging": "24.2",
+  "flask": "3.0.3",
+  "express": "4.21.0"
+}
